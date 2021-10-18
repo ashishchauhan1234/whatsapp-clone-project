@@ -1,0 +1,127 @@
+#whatsapp_body{
+    width: 280px;
+    height: 500px;
+    background: #50a067;
+    border: 3px solid #989898;
+    border-top: 10px solid #989898;
+    border-bottom: 20px solid #989898;
+    border-radius: 20px;
+    color: #ffffff;
+    margin: 100px 650px;
+}
+
+#block1{
+    background-color: #121212;
+    border: 2px solid black;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+.icon{
+    font: 15px;
+    display: inline-block;
+    color:white;
+}
+.icon1{
+    margin-left: 5px;
+
+}
+.icon2{
+    margin-left: 38px;
+}
+.cam_speak{
+    width: 100px;
+    height: 20px;
+    border: 1px solid #989898;
+    border-radius: 10px;
+    background: #6b6060;
+    margin-left: 50px ;
+}
+#cam{
+    width: 12px;
+    height: 12px;
+    border: 1px solid #989898;
+    border-radius: 50%;
+    background-image: radial-gradient(black, #323232, black );
+    display:inline-block;
+    margin: 3px 10px;
+
+}
+#speak{
+    width: 50px;
+    height: 10px;
+    border: 1px solid #989898;
+    border-radius: 50px;
+    background: #424252;
+    display:inline-block;
+    margin: 4px 0;
+}
+
+#block2{
+    height: 440px;
+    width: 100%;
+}
+#title-box{
+    width:100%;
+    height: 70px;
+    background: green;
+}
+
+#title-name, #title-menu{
+    display: inline-block;
+    color: white;
+    margin-top: 10px;
+}
+#title-name{
+    font: 18px "Times New Roman";
+    text-transform: capitalize;
+}
+#title-menu{
+    margin-right:10px;
+    float:right;
+}
+#menu-bar{
+    width:100%;
+    height:22px;
+    font-size:17px;
+    background: #12121265;
+    color: #efefef;
+    margin-top: 18px;   
+}
+#menu-bar>span{
+    height: 25px;
+    padding: 0 15px;
+
+}
+
+#whatsapp_content{
+    width: 100%;
+    height: 400px;
+    background: linear-gradient(#545445de, #12121290, #545445de)
+}
+.content{
+    width: 100%;
+    height: 55px;
+    background: #afafaf;
+    border: 1px solid #111111;
+}
+
+
+
+
+
+
+
+
+
+#block3{
+    height:30px;
+    width:100%;
+    background: #12121265;
+    flex:bottom;
+    text-align:center;
+}
+#block3>i{
+    font-size:20px;
+    color: black;
+    margin-top:5px;
+}
