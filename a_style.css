@@ -1,14 +1,56 @@
+
 #whatsapp_body{
     width: 280px;
     height: 500px;
+    display:inline-block;
     background: #50a067;
-    border: 3px solid #989898;
-    border-top: 10px solid #989898;
-    border-bottom: 20px solid #989898;
+    border: 5px solid #343434;
+    border-top: 10px solid #df7800;
+    border-bottom: 20px solid #df7800;
     border-radius: 20px;
     color: #ffffff;
-    margin: 100px 650px;
+    margin: 100px 0 0 650px;
 }
+#vol_pow{
+    display:inline-block;
+
+}
+#vol{
+    background: #ad6700a8;
+    width: 3.5px;
+    height: 70px;
+    margin: -5px;
+    margin-bottom: 30px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+}
+#vol-up{
+    background: #12121276;
+    width: 3px;
+    height: 25px;
+    margin: 2px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+}
+#vol-down{
+    background: #12121276;
+    width: 3px;
+    height: 25px;
+    margin: 2px;
+    margin-top: 15px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+}
+#power{
+    background: #ad6700a8;
+    width: 3.5px;
+    height: 30px;
+    margin: -5px;
+    margin-bottom: 280px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 10px;
+}
+
 
 #block1{
     background-color: #121212;
@@ -23,7 +65,6 @@
 }
 .icon1{
     margin-left: 5px;
-
 }
 .icon2{
     margin-left: 38px;
@@ -90,7 +131,6 @@
 #menu-bar>span{
     height: 25px;
     padding: 0 15px;
-
 }
 
 #whatsapp_content{
@@ -125,3 +165,4 @@
     color: black;
     margin-top:5px;
 }
+
